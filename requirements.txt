@@ -1,0 +1,9 @@
+numpy==1.15.4
+opencv-python==3.4.3.18
+Pillow==4.3.0
+powerlaw==1.4.4
+scipy==1.0.0
+torch==0.4.1
+torchvision==0.2.0
+tqdm==4.19.4
+mpmath==1.1.0
